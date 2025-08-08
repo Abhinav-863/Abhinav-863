@@ -30,10 +30,6 @@
   <img src="https://img.shields.io/badge/Verilog-Blue?logo=verilog&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/SystemVerilog-Orange?logo=systemverilog&logoColor=white" alt="SystemVerilog" />
   <img src="https://img.shields.io/badge/VHDL-Green?logo=vhdl&logoColor=white" alt="VHDL" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
 **Verification & Methodologies**  
