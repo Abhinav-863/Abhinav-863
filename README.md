@@ -80,7 +80,7 @@
 
 ---
 
-🏢 **Internships & Training**
+🏢 **Internships**
 - **TriSpace Technologies** *(Feb–May 2025)*  
   - Designed & verified a **FPU (single & double precision)** for integration into a mobile SoC  
   - RTL simulated using **Cadence Xcelium**
@@ -88,10 +88,6 @@
 - **Excel VLSI Technologies** *(Nov 2023)*  
   - Developed IPs including **ALU, Clock Divider, APB Memory**  
   - Exposure to full **RTL & verification flow**
-
-- **Maven Silicon** *(Jul 2024 – Present)*  
-  - Training on **SystemVerilog, UVM, Assertion-based Verification**  
-  - Working on ASIC/FPGA projects with industrial flow
 
 ---
 
