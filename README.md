@@ -82,19 +82,19 @@
 
 🏢 **Internships**
 - **TriSpace Technologies** *(Feb–May 2025)*  
-  - Designed & verified a **FPU (single & double precision)** for integration into a mobile SoC  
-  - RTL simulated using **Cadence Xcelium**
+  - Designed & verified a **FPU (single & double precision)**   
+  - RTL was simulated using **Cadence Xcelium** tool
 
 - **Excel VLSI Technologies** *(Nov 2023)*  
-  - Developed IPs including **ALU, Clock Divider, APB Memory**  
-  - Exposure to full **RTL & verification flow**
+  - Learnt about IP design and Verification done in the industry including   
+  - Designed basic blocks such as **ALU, Clock Divider, APB Memory, Asynchrnous FIFO**
 
 ---
 
 💻 **Training**
 - **Maven Silicon** 
-  - Trained on **Digital Design, Verilog HDL, SystemVerilog, UVM, Assertion-based Verification**  
-  - Worked on ASIC/FPGA projects with industrial flow
+  - Trained and learnt on **Digital Design, Verilog HDL, SystemVerilog, UVM, Assertion-based Verification**
+    
 ---
 
 🏆 **Achievements**
